@@ -1,0 +1,5 @@
+node_modules
+src/obj/
+src/bin/
+.ionide/
+paket-files
